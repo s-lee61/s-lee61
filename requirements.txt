@@ -3,7 +3,7 @@ pandas
 Pillow
 matplotlib
 joblib
-scikit-learn
+sklearn
 seaborn
 numpy
 imblearn
