@@ -1,9 +1,9 @@
 streamlit
-numpy
 pandas
-joblib
+Pillow
 matplotlib
-PIL
-numpy
-sklearn
+joblib
+scikit-learn
 seaborn
+numpy
+imblearn
