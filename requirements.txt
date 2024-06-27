@@ -3,7 +3,7 @@ pandas
 Pillow
 matplotlib
 joblib
-sklearn
+import sklearn
 seaborn
 numpy
 imblearn
